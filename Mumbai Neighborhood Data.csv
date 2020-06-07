@@ -1,0 +1,277 @@
+,Neighborhood,Latitude,Longitude,Avg 2BHK Rent,Hospitals,Schools,Emergency Services,Leisure,Shopping Facilities,Spiritual Centers,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Thane West,19.17502,72.9718018,27333.33,4,50,7,27,100,54,Smoke Shop,Indian Restaurant,Dessert Shop,Border Crossing,Fast Food Restaurant,Train Station,Dumpling Restaurant,Electronics Store,Event Space,Factory
+1,Mira Road East,19.1878962,72.8365955,30000.0,30,45,4,23,100,63,Coffee Shop,Indian Restaurant,Fast Food Restaurant,Café,Pub,Chinese Restaurant,Clothing Store,Pizza Place,Italian Restaurant,Gym
+2,Kharghar,19.0257731,73.05918477985664,32000.0,9,8,0,7,83,10,Café,Fast Food Restaurant,Multiplex,Train Station,Department Store,Indian Restaurant,Sandwich Place,Dhaba,Boutique,Falafel Restaurant
+3,Chembur,19.0612128,72.8975909,39000.0,36,57,6,35,100,98,Indian Restaurant,Seafood Restaurant,Café,Ice Cream Shop,Pizza Place,Garden,Lounge,Fast Food Restaurant,Bar,Restaurant
+4,Kandivali East,19.2103809,72.8640837,33694.62,30,18,3,19,100,31,Indian Restaurant,Fast Food Restaurant,Restaurant,Pizza Place,Shopping Mall,Lounge,Café,Multiplex,Ice Cream Shop,Chinese Restaurant
+5,Powai,19.1187195,72.9073476,85000.0,1,22,3,33,100,27,Indian Restaurant,Ice Cream Shop,Café,Chinese Restaurant,Bar,Bakery,Coffee Shop,Restaurant,Lounge,Pub
+6,Goregaon East,19.1692623,72.8552548,30000.0,9,49,6,25,100,58,Fast Food Restaurant,Indian Restaurant,Vegetarian / Vegan Restaurant,Hotel,Multiplex,Donut Shop,Snack Place,Shopping Mall,Bookstore,Bar
+7,Ulwe,18.9804364,73.0387309,10000.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+8,Andheri East,19.1158835,72.854202,22000.0,20,53,9,18,100,78,Indian Restaurant,Fast Food Restaurant,Café,Gym,Restaurant,Food Court,Hotel,Chinese Restaurant,Shopping Mall,Asian Restaurant
+9,Virar,19.4676823,72.8879975,8000.0,0,2,1,0,2,6,Resort,Restaurant,Bus Station,Indian Restaurant,Electronics Store,Diner,Donut Shop,Dumpling Restaurant,Zoo,Dim Sum Restaurant
+10,Panvel,19.0500265,72.9333337,12284.81,8,41,5,1,94,50,ATM,Coffee Shop,Train Station,Sports Bar,Factory,Diner,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space
+11,Andheri West,19.1172495,72.833968,56333.33,36,35,8,21,100,50,Indian Restaurant,Coffee Shop,Multiplex,Gym,Vegetarian / Vegan Restaurant,Café,Pub,Clothing Store,Ice Cream Shop,Snack Place
+12,Mulund West,19.1719717,72.9511956,26000.0,60,91,19,27,100,100,Indian Restaurant,Fast Food Restaurant,Snack Place,Café,Ice Cream Shop,Pizza Place,Asian Restaurant,Flea Market,Shopping Mall,Lounge
+13,Malad West,19.1840129,72.8412155,31750.0,53,28,6,23,100,97,Fast Food Restaurant,Coffee Shop,Indian Restaurant,Café,Chinese Restaurant,Pizza Place,Bar,Clothing Store,Italian Restaurant,Pub
+14,Kalyan West,19.1378919,72.81066778229749,18000.0,2,7,2,20,53,38,Café,Beach,Restaurant,Coffee Shop,Diner,Chinese Restaurant,Sandwich Place,Middle Eastern Restaurant,Miscellaneous Shop,Boat or Ferry
+15,Borivali West,19.2294561,72.8479905,316.8,30,70,8,43,100,77,Indian Restaurant,Restaurant,Ice Cream Shop,Sandwich Place,Chinese Restaurant,Gym,Theater,Café,Fast Food Restaurant,Clothing Store
+16,Bandra West,19.0583358,72.8302669,44500.0,44,50,12,50,100,67,Café,Indian Restaurant,Bakery,Bar,Dessert Shop,Seafood Restaurant,Chinese Restaurant,Pizza Place,Asian Restaurant,Snack Place
+17,Dahisar,19.2494501,72.8596206,21502.46,62,64,12,21,100,100,Diner,Bar,Juice Bar,Chinese Restaurant,Indian Restaurant,Café,Ice Cream Shop,Dessert Shop,Department Store,Restaurant
+18,Bhandup West,19.1462636,72.9339461,31000.0,56,89,7,15,100,81,Indian Restaurant,Train Station,Arcade,Sports Bar,Fried Chicken Joint,Big Box Store,Falafel Restaurant,Pizza Place,Vegetarian / Vegan Restaurant,Café
+19,Kamothe,19.0164338,73.0806552,15722.09,10,10,0,0,19,2,Asian Restaurant,Multiplex,Train Station,Cupcake Shop,Factory,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space,Falafel Restaurant
+20,Borivali East,19.2267228,72.8619328,33815.34,29,44,10,26,100,81,Clothing Store,Ice Cream Shop,Department Store,Café,Indian Restaurant,Chinese Restaurant,Shopping Mall,Snack Place,Boat or Ferry,Pizza Place
+21,Kandivali West,19.2083801,72.842227,55000.0,23,74,7,29,100,69,Fast Food Restaurant,Pizza Place,Indian Restaurant,Coffee Shop,Food,Bike Rental / Bike Share,Restaurant,Food Truck,Dessert Shop,Men's Store
+22,Malad East,19.1860219,72.8563181,46523.89,33,74,5,16,100,94,Department Store,Snack Place,Dessert Shop,Metro Station,Gym / Fitness Center,Pizza Place,Ice Cream Shop,Indian Restaurant,Factory,Dumpling Restaurant
+23,Airoli,19.151749,72.9744769,28269.23,0,0,0,0,4,0,Punjabi Restaurant,Zoo,Dhaba,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market,Farm,Falafel Restaurant,Factory
+24,Goregaon West,19.1633281,72.8411995,43000.0,30,41,4,30,100,84,Indian Restaurant,Fast Food Restaurant,Multiplex,Gym / Fitness Center,Ice Cream Shop,Mobile Phone Shop,Soccer Field,Sandwich Place,Restaurant,Café
+25,Naigaon East,19.0095393,72.8478709,8527.78,43,58,18,21,100,100,Indian Restaurant,Coffee Shop,Bus Station,Vegetarian / Vegan Restaurant,Movie Theater,Flower Shop,Café,Juice Bar,Lounge,Restaurant
+26,Santacruz East,19.092336600000003,72.85319921397249,50000.0,7,22,6,8,85,33,Café,Indian Restaurant,Coffee Shop,Hotel,Sandwich Place,Bar,Restaurant,Donut Shop,Bakery,Fast Food Restaurant
+27,Lower Parel,18.9963318,72.8308603,81000.0,11,31,11,37,100,87,Indian Restaurant,Café,Restaurant,Coffee Shop,Pub,Italian Restaurant,Lounge,Asian Restaurant,Mediterranean Restaurant,Clothing Store
+28,Taloja,19.0614859,73.1161392,11606.06,2,0,3,0,4,1,Business Service,Comedy Club,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market,Farm,Falafel Restaurant,Factory
+29,Kanjurmarg,19.1296868,72.9283701,43620.57,6,37,14,11,100,47,Train Station,Fish Market,Platform,Café,Asian Restaurant,Cupcake Shop,Indian Restaurant,Food Court,Multiplex,Coffee Shop
+30,Wadala,19.0269192,72.8759337,58982.25,0,18,4,15,82,36,Snack Place,Gym Pool,Bookstore,Baseball Field,Coffee Shop,Pizza Place,Thai Restaurant,Asian Restaurant,Multiplex,Electronics Store
+31,Ghansoli,19.1193307,72.9995096,5500.0,11,31,1,5,100,24,Flea Market,Fast Food Restaurant,Department Store,Vegetarian / Vegan Restaurant,Train Station,Juice Bar,Zoo,Electronics Store,Diner,Donut Shop
+32,Neral,19.0266373,73.3181185,26250.0,4,27,2,1,100,35,ATM,Train Station,City,Mountain,Fast Food Restaurant,Farmers Market,Farm,Field,Dim Sum Restaurant,Fish & Chips Shop
+33,Worli,19.0116962,72.8180702,57000.0,6,41,12,19,100,54,Scenic Lookout,Café,Bakery,Smoke Shop,Sports Club,Electronics Store,Thai Restaurant,French Restaurant,Chinese Restaurant,Art Gallery
+34,Jogeshwari West,19.136394,72.8373817,35666.67,30,30,4,26,100,65,Indian Restaurant,Pub,Bar,Asian Restaurant,Coffee Shop,Chinese Restaurant,Multiplex,Brewery,Pizza Place,Electronics Store
+35,Parel,19.0094817,72.8376614,65000.0,81,81,16,26,100,100,Indian Restaurant,Coffee Shop,Restaurant,Movie Theater,Bakery,Theater,Burger Joint,Juice Bar,Café,Department Store
+36,mumbai,18.9387711,72.8353355,35428.08,30,43,30,27,100,76,Indian Restaurant,Café,Coffee Shop,Hotel,Seafood Restaurant,Fast Food Restaurant,Train Station,Bar,Bakery,Clothing Store
+37,Virar West,19.4676823,72.8879975,20000.0,0,2,1,0,2,6,Resort,Restaurant,Bus Station,Indian Restaurant,Electronics Store,Diner,Donut Shop,Dumpling Restaurant,Zoo,Dim Sum Restaurant
+38,Prabhadevi,19.0148811,72.8279556,93145.52,17,58,9,29,100,100,Indian Restaurant,Café,Coffee Shop,Chinese Restaurant,Electronics Store,Lounge,Snack Place,Restaurant,Bakery,Dessert Shop
+39,Seawoods,19.0221923,73.01873756602905,28000.0,19,15,3,23,100,16,Dessert Shop,Fast Food Restaurant,Indian Restaurant,Garden,Chinese Restaurant,Café,Shopping Mall,Department Store,Music Store,Clothing Store
+40,Bandra East,19.0616565,72.8498111,75000.0,9,26,13,12,100,76,Indian Restaurant,Restaurant,Café,Gym,Pizza Place,Pub,Seafood Restaurant,Brazilian Restaurant,South American Restaurant,Food Court
+41,Khar West,19.0696584,72.8398944,86500.0,20,16,13,25,100,81,Bar,Seafood Restaurant,Ice Cream Shop,Café,Sushi Restaurant,Dessert Shop,Asian Restaurant,Chinese Restaurant,Spa,Hookah Bar
+42,Santacruz West,19.084877,72.8349727,75500.0,20,70,6,25,100,60,Clothing Store,Men's Store,Indian Restaurant,Fast Food Restaurant,Steakhouse,Chinese Restaurant,Coffee Shop,Food Truck,Gym,Sandwich Place
+43,Mulund East,19.1704719,72.9610447,22000.0,24,71,16,30,100,81,Indian Restaurant,Café,Ice Cream Shop,Fast Food Restaurant,Chinese Restaurant,Pizza Place,Smoke Shop,Playground,Diner,Bus Station
+44,Vikhroli,19.1114795,72.928021,63708.0,13,34,9,22,100,49,Vegetarian / Vegan Restaurant,Café,Chinese Restaurant,Dessert Shop,Indian Restaurant,Coworking Space,Restaurant,Seafood Restaurant,Farm,Falafel Restaurant
+45,Juhu,19.1070215,72.8275275,69000.0,11,45,5,36,100,20,Indian Restaurant,Café,Hotel,Bar,Coffee Shop,Chinese Restaurant,Cocktail Bar,Spa,Lounge,Restaurant
+46,Sion,19.0465213,72.8632834,44000.0,21,49,7,26,100,100,Indian Restaurant,Vegetarian / Vegan Restaurant,Snack Place,Seafood Restaurant,Boutique,Train Station,Bus Station,Bookstore,Sandwich Place,Breakfast Spot
+47,Nerul,19.033611800000003,73.01813957492513,25000.0,40,71,3,52,100,72,Indian Restaurant,Chinese Restaurant,Café,Gym,Snack Place,Coffee Shop,Bakery,Diner,Food Court,Garden
+48,Sanpada,19.06597735,73.00953290144423,30000.0,23,32,3,12,100,29,Indian Restaurant,Department Store,Bookstore,Hotel,Restaurant,Coffee Shop,Chinese Restaurant,Clothing Store,Multiplex,Brewery
+49,Ghatkopar West,19.0897194,72.9045972,30750.0,91,99,7,18,100,100,Indian Restaurant,Pizza Place,Café,Men's Store,Smoke Shop,Restaurant,Light Rail Station,Donut Shop,Bakery,Dessert Shop
+50,Kurla,19.0652797,72.8793805,30000.0,10,64,9,15,100,73,Bus Station,Yoga Studio,Shoe Store,Vegetarian / Vegan Restaurant,Train Station,Bar,Event Space,Diner,Donut Shop,Dumpling Restaurant
+51,Thane,19.1693436,72.9667636,33200.0,9,36,5,22,100,45,Indian Restaurant,Chinese Restaurant,Pizza Place,Fried Chicken Joint,Diner,Bus Station,Asian Restaurant,Playground,Café,Furniture / Home Store
+52,Karjat,18.9127655,73.3228202,8000.0,3,43,4,6,98,59,Other Great Outdoors,Diner,Fast Food Restaurant,Train Station,Indian Restaurant,Factory,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space
+53,Boisar,19.2091438,72.8591832,12000.0,31,35,10,10,100,40,Fast Food Restaurant,Restaurant,Shopping Mall,Pizza Place,Indian Restaurant,Sandwich Place,Bus Line,Multiplex,Food Court,Sports Bar
+54,Vashi,19.075713,73.0003541,30187.5,58,30,7,35,100,52,Indian Restaurant,Fast Food Restaurant,Gym / Fitness Center,Hotel,Chaat Place,Beer Garden,Social Club,Snack Place,Shopping Mall,Seafood Restaurant
+55,Dahisar East,19.2486925,72.8640593,23611.11,54,61,11,20,100,90,Diner,Seafood Restaurant,Café,Bar,Food Court,Pizza Place,Train Station,Hotel Bar,Bakery,Indian Restaurant
+56,Kalamboli,19.0235062,73.11060918969079,1647.17,9,7,7,2,34,13,Bus Station,Hotel,Fast Food Restaurant,Department Store,Toll Plaza,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+57,Jogeshwari East,19.1369889,72.8649418,58714.38,23,56,8,22,100,69,College Gym,Restaurant,Gym / Fitness Center,Gym,Asian Restaurant,Indian Restaurant,Chinese Restaurant,Electronics Store,Diner,Donut Shop
+58,Chembur East,19.0460658,72.8954733,45676.06,17,53,10,15,100,85,Indian Restaurant,Fast Food Restaurant,Pizza Place,Café,Ice Cream Shop,Garden,Pool,Food Truck,Movie Theater,Juice Bar
+59,Kalyan East,19.1378919,72.81066778229749,10000.0,2,7,2,20,53,38,Café,Beach,Restaurant,Coffee Shop,Diner,Chinese Restaurant,Sandwich Place,Middle Eastern Restaurant,Miscellaneous Shop,Boat or Ferry
+60,Dadar West,19.0238887,72.8382236,75000.0,55,75,14,51,100,100,Indian Restaurant,Chinese Restaurant,Fast Food Restaurant,Bar,Coffee Shop,Ice Cream Shop,Café,Movie Theater,Fish Market,Food Truck
+61,Andheri,19.1196976,72.8464205,49708.0,32,84,11,22,100,73,Indian Restaurant,Fast Food Restaurant,Sandwich Place,Coffee Shop,Restaurant,Food Court,Smoke Shop,Shoe Store,Falafel Restaurant,Bakery
+62,Virar East,19.4676823,72.8879975,8000.0,0,2,1,0,2,6,Resort,Restaurant,Bus Station,Indian Restaurant,Electronics Store,Diner,Donut Shop,Dumpling Restaurant,Zoo,Dim Sum Restaurant
+63,Mira Road,19.1878962,72.8365955,19966.67,30,45,4,23,100,63,Coffee Shop,Indian Restaurant,Fast Food Restaurant,Café,Pub,Chinese Restaurant,Clothing Store,Pizza Place,Italian Restaurant,Gym
+64,Bhayandar East,19.1971521,72.8113662,15000.0,1,11,2,6,11,26,Resort,Hot Dog Joint,Diner,Dance Studio,Event Space,Dim Sum Restaurant,Donut Shop,Dumpling Restaurant,Electronics Store,Zoo
+65,Ghatkopar East,19.0834898,72.9120255,43388.81,98,100,9,43,100,100,Indian Restaurant,Ice Cream Shop,Fast Food Restaurant,Gym / Fitness Center,Vegetarian / Vegan Restaurant,Coffee Shop,Pizza Place,Dessert Shop,Snack Place,Electronics Store
+66,Dahisar West,19.2483914,72.8525146,26522.64,32,48,8,21,100,64,Indian Restaurant,Chinese Restaurant,Fast Food Restaurant,Café,Bar,Coffee Shop,Soccer Field,Lounge,Liquor Store,Juice Bar
+67,Khar,19.0696584,72.8398944,65000.0,20,16,13,25,100,81,Bar,Seafood Restaurant,Ice Cream Shop,Café,Sushi Restaurant,Dessert Shop,Asian Restaurant,Chinese Restaurant,Spa,Hookah Bar
+68,Belapur,19.01898695,73.03909472408442,27500.0,9,2,9,26,75,18,Indian Restaurant,Fast Food Restaurant,Vegetarian / Vegan Restaurant,Train Station,Plaza,Asian Restaurant,Convenience Store,Liquor Store,Bus Station,Café
+69,Colaba,18.915091,72.8259691,128218.18,2,23,8,28,100,40,Indian Restaurant,Coffee Shop,Hotel,Café,Diner,Bar,Restaurant,Italian Restaurant,Chinese Restaurant,Tennis Court
+70,Deonar,19.0475502,72.9051895,58516.67,15,38,5,22,100,68,Indian Restaurant,Pizza Place,Café,Fast Food Restaurant,Chinese Restaurant,Movie Theater,Punjabi Restaurant,Pub,Plaza,Supermarket
+71,Bandra Kurla Complex,19.067115,72.8657245,10253.35,6,8,5,6,24,13,Indian Restaurant,Bar,Coffee Shop,Pizza Place,Sandwich Place,Fast Food Restaurant,Chinese Restaurant,Dessert Shop,Diner,Café
+72,Kalyan,19.1378919,72.81066778229749,12250.0,2,7,2,20,53,38,Café,Beach,Restaurant,Coffee Shop,Diner,Chinese Restaurant,Sandwich Place,Middle Eastern Restaurant,Miscellaneous Shop,Boat or Ferry
+73,Wadala East,19.0269192,72.8759337,70000.0,0,18,4,15,82,36,Snack Place,Gym Pool,Bookstore,Baseball Field,Coffee Shop,Pizza Place,Thai Restaurant,Asian Restaurant,Multiplex,Electronics Store
+74,vile parle west,19.1038725,72.8402903,33000.0,23,66,7,33,100,56,Indian Restaurant,Café,Snack Place,Sandwich Place,Seafood Restaurant,Ice Cream Shop,Gym,Coffee Shop,Food Truck,Juice Bar
+75,Mahalaxmi,18.9825679,72.82416,55000.0,7,33,12,10,100,100,Coffee Shop,Indian Restaurant,Bakery,Gym,Restaurant,Asian Restaurant,Modern European Restaurant,Café,Spa,Racetrack
+76,Dadar East,19.0162531,72.8522274,81333.38,11,62,9,25,100,85,Indian Restaurant,Coffee Shop,Fast Food Restaurant,Café,Movie Theater,Gym,Shoe Store,Soccer Field,Flower Shop,Restaurant
+77,Shil Phata,19.1127791,73.0094724,12428.57,8,17,2,4,100,28,Indian Restaurant,Fast Food Restaurant,Hotel,Ice Cream Shop,Mexican Restaurant,Food Court,Food Truck,Restaurant,Café,Seafood Restaurant
+78,Khopoli,18.787747,73.3438185,7500.0,17,13,2,7,100,28,Women's Store,Train Station,North Indian Restaurant,Bus Station,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+79,Kanjurmarg East,19.1378308,72.9361964,10000.0,17,49,8,14,100,49,Indian Restaurant,Shopping Mall,Multiplex,Cupcake Shop,Fried Chicken Joint,Café,Chinese Restaurant,Arcade,Theme Park,Pizza Place
+80,Byculla,18.9766219,72.8327936,63250.0,24,84,29,30,100,100,Bakery,Indian Restaurant,Pizza Place,Coffee Shop,Zoo,Fast Food Restaurant,Restaurant,Bar,Asian Restaurant,Cupcake Shop
+81,Kurla East,19.0628944,72.8825604,37256.41,12,63,11,20,100,73,Train Station,Bus Station,Shoe Store,Vegetarian / Vegan Restaurant,Event Space,Dim Sum Restaurant,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+82,Mahim,19.0423145,72.8398344,60000.0,14,45,7,17,100,68,Bakery,Fast Food Restaurant,Indian Restaurant,Café,Music Venue,Arcade,Movie Theater,Sporting Goods Shop,Furniture / Home Store,Juice Bar
+83,Ghatkopar,19.0859539,72.9082381,25000.0,98,100,10,38,100,100,Indian Restaurant,Ice Cream Shop,Fast Food Restaurant,Vegetarian / Vegan Restaurant,Coffee Shop,Pizza Place,Men's Store,Snack Place,Restaurant,Donut Shop
+84,Mulund,19.1722904,72.9564695,3546.15,45,93,16,28,100,100,Indian Restaurant,Fast Food Restaurant,Café,Snack Place,Pizza Place,Ice Cream Shop,Chinese Restaurant,Flea Market,Theater,Bar
+85,Tilak Nagar,19.0692377,72.8978464,41684.21,24,39,6,29,100,76,Indian Restaurant,Restaurant,Café,Seafood Restaurant,Fast Food Restaurant,Bar,Lounge,Vegetarian / Vegan Restaurant,Chinese Restaurant,Pizza Place
+86,Cuffe Parade,18.9136406,72.8209295,143326.09,1,19,6,23,100,30,Indian Restaurant,Coffee Shop,Chinese Restaurant,Restaurant,Spa,Italian Restaurant,Gym,Thai Restaurant,Pizza Place,Café
+87,Taloje,19.0860674,73.1288533,11000.0,0,0,0,0,3,2,Other Repair Shop,Zoo,Dim Sum Restaurant,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market,Farm,Falafel Restaurant
+88,Rasayani,18.8978821,73.1803608,7666.67,12,12,2,4,98,24,Dhaba,River,Mountain,Indian Restaurant,Factory,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space,Falafel Restaurant
+89,Sector 17 Ulwe,18.9804364,73.0387309,10833.33,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+90,Kurla West,19.0686026,72.876583,41499.81,19,51,9,9,100,83,Indian Restaurant,Pizza Place,Coffee Shop,Bar,Hotel,Thai Restaurant,Middle Eastern Restaurant,River,Lounge,Bus Station
+91,Roadpali,19.039555749999998,73.09188873620153,18730.77,2,8,0,0,12,5,Ice Cream Shop,ATM,Lake,Bar,Toll Plaza,Factory,Dumpling Restaurant,Electronics Store,Event Space,Falafel Restaurant
+92,MATUNGA WEST,19.0317259,72.8433917,64846.15,14,56,13,28,100,88,Indian Restaurant,Chinese Restaurant,Fast Food Restaurant,Café,Bar,Vegetarian / Vegan Restaurant,Coffee Shop,Pizza Place,Department Store,Movie Theater
+93,Bhandup East,19.1485568,72.9470657,29952.38,7,26,3,11,88,26,Train Station,Asian Restaurant,Food Truck,Fast Food Restaurant,Indian Restaurant,Zoo,Factory,Donut Shop,Dumpling Restaurant,Electronics Store
+94,Govandi,19.0553688,72.9150702,100000.0,23,38,9,33,100,96,Indian Restaurant,Paper / Office Supplies Store,Hot Dog Joint,Gym,Pub,Chinese Restaurant,Food Truck,Event Space,Diner,Donut Shop
+95,Goregaon,19.1647526,72.8500176,16600.0,29,78,8,31,100,84,Indian Restaurant,Fast Food Restaurant,Gym / Fitness Center,Snack Place,Sandwich Place,Pizza Place,Café,Bar,Bank,Lounge
+96,Mazgaon,18.9680519,72.84001187036267,75769.23,33,29,18,22,100,100,Indian Restaurant,Flea Market,Chinese Restaurant,Cupcake Shop,Bakery,Café,Dessert Shop,Food Truck,Music Venue,Garden
+97,Thakur complex,19.1353511,72.81736277244113,28000.0,23,20,4,34,100,38,Café,Pub,Coffee Shop,Ice Cream Shop,Seafood Restaurant,Beach,Chinese Restaurant,Asian Restaurant,Restaurant,Bar
+98,Veera Desai Road,19.1330184,72.8376071,50642.86,27,4,6,25,100,63,Pub,Bar,Indian Restaurant,Asian Restaurant,Coffee Shop,Multiplex,Pizza Place,Lounge,Chinese Restaurant,Café
+99,Vikroli East,19.1250077,72.9275119,88111.11,10,39,14,14,100,69,Train Station,Indian Restaurant,Department Store,Furniture / Home Store,Café,Coworking Space,Coffee Shop,Fish Market,Cupcake Shop,Clothing Store
+100,Tardeo,18.9722687,72.8204976,118263.16,9,96,14,21,100,100,Fast Food Restaurant,Indian Restaurant,Chinese Restaurant,Restaurant,Coffee Shop,Gym,Department Store,Ice Cream Shop,Bus Station,Movie Theater
+101,Sector-9 Ulwe,18.9804364,73.0387309,23715.79,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+102,Sector 20 Kharghar,19.0525298,73.0735111,22545.45,8,16,0,16,80,13,Fast Food Restaurant,Pizza Place,Outdoor Sculpture,Ice Cream Shop,Theme Park,Zoo,Electronics Store,Dim Sum Restaurant,Diner,Donut Shop
+103,Chandivali,19.1091482,72.8945793,43235.29,12,21,3,11,100,51,Department Store,Indian Restaurant,Fast Food Restaurant,Hotel,Residential Building (Apartment / Condo),Restaurant,Lounge,Indian Chinese Restaurant,Karaoke Bar,Multiplex
+104,Suburbs Mumbai,18.9584855,72.8122522,43892.86,56,99,18,45,100,100,Indian Restaurant,Ice Cream Shop,Coffee Shop,Café,Fast Food Restaurant,Juice Bar,Pizza Place,Restaurant,Electronics Store,Clothing Store
+105,Bhayandar West,19.1971521,72.8113662,20000.0,1,11,2,6,11,26,Resort,Hot Dog Joint,Diner,Dance Studio,Event Space,Dim Sum Restaurant,Donut Shop,Dumpling Restaurant,Electronics Store,Zoo
+106,Sector 19 Kharghar,19.0525298,73.0735111,24500.0,8,16,0,16,80,13,Fast Food Restaurant,Pizza Place,Outdoor Sculpture,Ice Cream Shop,Theme Park,Zoo,Electronics Store,Dim Sum Restaurant,Diner,Donut Shop
+107,Agripada,18.9753024,72.8248975,76500.0,6,85,22,20,100,100,Indian Restaurant,Fast Food Restaurant,Bakery,Gym,Restaurant,Chinese Restaurant,Department Store,Coffee Shop,Asian Restaurant,Movie Theater
+108,Sector-18 Ulwe,19.02291925,73.04793003737667,14000.0,6,8,7,21,52,15,Smoke Shop,Pizza Place,Fast Food Restaurant,Restaurant,Recreation Center,Sports Bar,Bar,Bakery,Asian Restaurant,Indian Restaurant
+109,Thakur Village,19.2097189,72.8759248,30000.0,9,39,2,24,100,28,Pizza Place,Indian Restaurant,Café,Fast Food Restaurant,Ice Cream Shop,Gym,Stadium,Department Store,Sports Bar,French Restaurant
+110,Malabar Hill,18.9581616,72.8033665,154210.53,18,46,10,31,100,56,Indian Restaurant,Café,Dessert Shop,Coffee Shop,Restaurant,Bakery,Park,Salon / Barbershop,Pizza Place,History Museum
+111,Lokhandwala complex,19.1431604,72.8246332,63500.06,22,18,6,28,100,24,Indian Restaurant,Chinese Restaurant,Pub,Café,Bar,Italian Restaurant,Bakery,Gym / Fitness Center,Coffee Shop,Lounge
+112,Mumbai Central,18.9695855,72.8193152,6232.26,9,100,15,25,100,100,Fast Food Restaurant,Chinese Restaurant,Indian Restaurant,Coffee Shop,Restaurant,Department Store,Ice Cream Shop,Bakery,Golf Course,Athletics & Sports
+113,matunga east,19.0261579,72.8520846,82250.0,10,79,9,27,100,76,Indian Restaurant,Café,Chinese Restaurant,Fast Food Restaurant,Coffee Shop,Ice Cream Shop,Snack Place,South Indian Restaurant,Gym,Bar
+114,Thane East,19.1693436,72.9667636,22700.0,9,36,5,22,100,45,Indian Restaurant,Chinese Restaurant,Pizza Place,Fried Chicken Joint,Diner,Bus Station,Asian Restaurant,Playground,Café,Furniture / Home Store
+115,Matunga,19.0274356,72.8501467,94875.0,8,75,9,24,100,87,Indian Restaurant,Fast Food Restaurant,Chinese Restaurant,Café,Snack Place,Shopping Mall,Ice Cream Shop,Vegetarian / Vegan Restaurant,Train Station,Department Store
+116,Thakur Village Road,19.2097189,72.8759248,31300.0,9,39,2,24,100,28,Pizza Place,Indian Restaurant,Café,Fast Food Restaurant,Ice Cream Shop,Gym,Stadium,Department Store,Sports Bar,French Restaurant
+117,Versova,19.13025205,72.8213774957082,64300.0,30,34,3,36,100,42,Café,Pub,Indian Restaurant,Bar,Lounge,Ice Cream Shop,Pizza Place,Chinese Restaurant,Seafood Restaurant,Vegetarian / Vegan Restaurant
+118,Andheri   Dahisar,19.1871655,72.8584439,33800.0,26,74,6,16,100,94,Snack Place,Department Store,Pizza Place,Ice Cream Shop,Indian Restaurant,Zoo,Factory,Donut Shop,Dumpling Restaurant,Electronics Store
+119,Mahape,19.1175098,73.0264199,29865.52,0,3,0,0,9,3,Smoke Shop,Indian Restaurant,Theater,Sandwich Place,Bus Station,Dim Sum Restaurant,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+120,Sector 21 Ghansoli,19.1193307,72.9995096,22612.96,11,31,1,5,100,24,Flea Market,Fast Food Restaurant,Department Store,Vegetarian / Vegan Restaurant,Train Station,Juice Bar,Zoo,Electronics Store,Diner,Donut Shop
+121,Mira Bhayandar,19.2820571,72.8741437,25000.0,23,33,4,9,100,40,Pizza Place,Fast Food Restaurant,Dessert Shop,Bakery,Department Store,Asian Restaurant,Electronics Store,Ice Cream Shop,Indian Restaurant,Sandwich Place
+122,Oshiwara,19.1502437,72.8342294,57000.0,7,55,7,20,100,69,Café,Indian Restaurant,Gym / Fitness Center,Gym,Chinese Restaurant,Mexican Restaurant,Bar,Ice Cream Shop,Fast Food Restaurant,Bakery
+123,Ambivali,19.1331195,72.82513357942526,15000.0,40,23,4,50,100,49,Pub,Indian Restaurant,Café,Coffee Shop,Lounge,Asian Restaurant,Pizza Place,Bar,Vegetarian / Vegan Restaurant,Italian Restaurant
+124,Four Bungalows,19.1287942,72.8255543,53100.0,34,50,7,44,100,51,Pub,Café,Indian Restaurant,Lounge,Bar,Chinese Restaurant,Electronics Store,Coffee Shop,Seafood Restaurant,Juice Bar
+125,Churchgate,18.9359567,72.8273404,152000.0,17,43,19,38,100,74,Indian Restaurant,Café,Chinese Restaurant,Bar,Bakery,Cricket Ground,Coffee Shop,Fast Food Restaurant,Ice Cream Shop,Dessert Shop
+126,Wadala East Wadala,19.0269192,72.8759337,58818.18,0,18,4,15,82,36,Snack Place,Gym Pool,Bookstore,Baseball Field,Coffee Shop,Pizza Place,Thai Restaurant,Asian Restaurant,Multiplex,Electronics Store
+127,Marine Lines,18.9456701,72.823781,147500.0,25,59,20,30,100,100,Indian Restaurant,Café,Chinese Restaurant,Cricket Ground,Fast Food Restaurant,Multiplex,Train Station,Bakery,Bar,Restaurant
+128,Sector 5 Ghansoli,19.1193307,72.9995096,62560.0,11,31,1,5,100,24,Flea Market,Fast Food Restaurant,Department Store,Vegetarian / Vegan Restaurant,Train Station,Juice Bar,Zoo,Electronics Store,Diner,Donut Shop
+129,Koparkhairane Station Road,19.1055916,73.0008759,25207.69,24,41,5,12,100,47,Department Store,Indian Restaurant,Ice Cream Shop,Diner,Bus Station,Seafood Restaurant,Thai Restaurant,Lounge,Food Truck,Bar
+130,Pratiksha Nagar Sion,19.0446502,72.8746772,30216.67,9,21,1,16,70,30,Vegetarian / Vegan Restaurant,Café,Soccer Field,Food,Train Station,Hotel,Pizza Place,Breakfast Spot,Electronics Store,Indian Restaurant
+131,Pali Hill,19.0649126,72.8270326,79000.0,12,34,2,46,100,46,Café,Indian Restaurant,Dessert Shop,Italian Restaurant,Bakery,Fast Food Restaurant,Seafood Restaurant,Chinese Restaurant,Ice Cream Shop,Asian Restaurant
+132,Marine Drive,18.9414868,72.8238464,150000.0,15,43,16,27,100,54,Indian Restaurant,Café,Bar,Bakery,Ice Cream Shop,Train Station,Chinese Restaurant,Cricket Ground,Italian Restaurant,Gastropub
+133,Marol,19.1172198,72.882342,53166.67,22,37,5,17,100,39,Indian Restaurant,Hotel,Coffee Shop,Snack Place,Dance Studio,Boat or Ferry,Fast Food Restaurant,Lounge,Restaurant,Diner
+134,CBD Belapur East,19.02348485,73.03848953489394,29000.0,9,3,8,35,72,21,Indian Restaurant,Restaurant,Train Station,Tea Room,Café,Pizza Place,Recreation Center,Mountain,Bar,Sports Bar
+135,Mahim West,19.0423145,72.8398344,60000.0,14,45,7,17,100,68,Bakery,Fast Food Restaurant,Indian Restaurant,Café,Music Venue,Arcade,Movie Theater,Sporting Goods Shop,Furniture / Home Store,Juice Bar
+136,Sector 36 Kharghar,19.03773415,73.06419187265803,15666.67,25,46,3,16,100,28,Café,Fast Food Restaurant,Indian Restaurant,Multiplex,Juice Bar,Pizza Place,Fried Chicken Joint,Restaurant,Department Store,Chinese Restaurant
+137,Sector 21 Ulwe,18.9804364,73.0387309,12000.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+138,Yari Road,19.1394017,72.8079157,49692.31,2,7,2,20,49,34,Café,Beach,Boat or Ferry,Coffee Shop,Diner,Arts & Crafts Store,Sandwich Place,Miscellaneous Shop,Bistro,Restaurant
+139,Sector 5 Ulwe,18.9804364,73.0387309,32250.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+140,Sector 19 Ulwe,18.9804364,73.0387309,11750.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+141,Sector-8A Airoli,19.1538376,72.9626809,26000.0,0,1,0,0,8,1,Bus Station,Indian Restaurant,Pizza Place,Diner,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space,Factory,Zoo
+142,raheja vihar,19.1168695,72.894113,4566.67,4,23,6,25,97,20,Food,Café,Department Store,Indian Restaurant,Chinese Restaurant,Lake,Residential Building (Apartment / Condo),Karaoke Bar,Lounge,Garden
+143,Carter Road,19.0607341,72.8222907,131000.0,13,20,3,29,100,13,Café,Indian Restaurant,Bakery,Bar,Chinese Restaurant,Fast Food Restaurant,Asian Restaurant,Dessert Shop,Seafood Restaurant,Spa
+144,Chembur West,19.0571098,72.8993875,41800.0,43,38,13,36,100,99,Indian Restaurant,Pizza Place,Café,Fast Food Restaurant,Dessert Shop,Seafood Restaurant,Bar,Gym,Bakery,Garden
+145,DN Nagar Road,19.1270248,72.8327606,39285.71,22,8,9,28,100,71,Bar,Coffee Shop,Pub,Pizza Place,Indian Restaurant,Gym / Fitness Center,Vegetarian / Vegan Restaurant,Electronics Store,Multiplex,Snack Place
+146,Santosh Nagar,19.0526081,72.9094457,13500.0,23,66,9,30,100,86,Indian Restaurant,Pizza Place,Café,Fast Food Restaurant,Chinese Restaurant,Food Truck,Food & Drink Shop,Pub,Supermarket,Lounge
+147,Vartak Nagar,19.2258868,72.8485712,26333.33,32,69,6,40,100,80,Indian Restaurant,Ice Cream Shop,Restaurant,Chinese Restaurant,Sandwich Place,Café,Clothing Store,Snack Place,Coffee Shop,Electronics Store
+148,Girgaon,18.9543165,72.8179082,121250.0,68,100,20,36,100,100,Indian Restaurant,Fast Food Restaurant,Juice Bar,Ice Cream Shop,Restaurant,Breakfast Spot,Bakery,Coffee Shop,Italian Restaurant,Gastropub
+149,Sewri,18.9987796,72.8544218,101666.67,4,22,11,8,58,51,Harbor / Marina,Record Shop,Train Station,Cosmetics Shop,Pool Hall,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant
+150,Cumballa Hill,18.9693073,72.8065375,140000.0,21,56,10,33,100,59,Café,Bar,Bakery,Chinese Restaurant,Dessert Shop,Indian Restaurant,Coffee Shop,Fast Food Restaurant,Sandwich Place,Pizza Place
+151,Charkop,19.2141193,72.8258652,26500.0,26,32,3,17,100,52,Gym,Playground,Pizza Place,Bakery,Miscellaneous Shop,Plaza,Motorcycle Shop,Café,Coffee Shop,Gym / Fitness Center
+152,Pant Nagar,19.0868209,72.9156026,39250.0,21,67,7,28,100,90,Indian Restaurant,Vegetarian / Vegan Restaurant,Coffee Shop,Pizza Place,Café,Breakfast Spot,Electronics Store,Bakery,Juice Bar,Pub
+153,Chakala,19.1152873,72.8618085,61500.0,12,47,8,19,100,85,Indian Restaurant,Café,Hotel,Seafood Restaurant,Fast Food Restaurant,Pizza Place,Diner,Restaurant,Multiplex,Chinese Restaurant
+154,Vile Parle E,19.0962884,72.8483799,73333.33,16,51,10,19,100,62,Indian Restaurant,Café,Hotel,Coffee Shop,Sandwich Place,Fast Food Restaurant,Tea Room,Snack Place,Gym,Airport Terminal
+155,Sindhi Society,19.0508747,72.8890543,42000.0,26,41,12,14,100,80,Indian Restaurant,Snack Place,Bar,Fast Food Restaurant,Juice Bar,Coffee Shop,Mobile Phone Shop,Pizza Place,Ice Cream Shop,Smoke Shop
+156,Breach Candy,18.97256625,72.80426769748523,168000.0,12,21,7,27,100,34,Bar,Indian Restaurant,Bakery,Café,Dessert Shop,Pizza Place,Sandwich Place,Chinese Restaurant,Department Store,Italian Restaurant
+157,Sher E Punjab Colony,19.1276887,72.8627819,45705.88,24,61,6,13,100,92,Indian Restaurant,Ice Cream Shop,Asian Restaurant,Market,Restaurant,Bed & Breakfast,Sports Bar,Camera Store,Multiplex,Bakery
+158,Vikhroli West,19.114541,72.9257184,42333.33,15,47,9,19,100,61,Indian Restaurant,Café,Vegetarian / Vegan Restaurant,Pizza Place,Chinese Restaurant,Restaurant,Dessert Shop,Shopping Mall,Electronics Store,Furniture / Home Store
+159,Jankalyan Nagar,19.1173138,72.9366231,38000.0,27,16,9,35,100,67,French Restaurant,Bakery,Vegetarian / Vegan Restaurant,Grocery Store,Indian Restaurant,Falafel Restaurant,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space
+160,dadar,19.019282,72.8428757,145000.0,42,90,14,43,100,100,Indian Restaurant,Fast Food Restaurant,Chinese Restaurant,Coffee Shop,Ice Cream Shop,Café,Movie Theater,Restaurant,Breakfast Spot,Vegetarian / Vegan Restaurant
+161,Maharashtra Nagar,19.05599665,72.92266539120885,76000.0,29,100,9,21,100,100,Food Truck,Paper / Office Supplies Store,Fried Chicken Joint,Indian Restaurant,Gym,Diner,Hot Dog Joint,Farmers Market,Farm,Dim Sum Restaurant
+162,Nahur East,19.1543618,72.9464735,41157.14,20,32,8,14,95,30,Restaurant,Fast Food Restaurant,Coffee Shop,Train Station,Pub,Bus Station,Electronics Store,Dim Sum Restaurant,Diner,Donut Shop
+163,pakhadi,19.0963204,72.8643595,12000.0,2,8,4,2,49,30,Coffee Shop,Café,Indian Restaurant,Airport,Airport Terminal,Bar,Donut Shop,Lounge,Whisky Bar,Airport Lounge
+164,Mazagaon,18.9697337,72.8406201,89600.0,29,29,18,24,100,100,Indian Restaurant,Chinese Restaurant,Food Truck,Garden,Music Venue,Bar,Bakery,Dessert Shop,Asian Restaurant,Coffee Shop
+165,Anand Nagar,18.9665234,72.8118877,22000.0,30,100,21,33,100,82,Café,Sandwich Place,Bakery,Pizza Place,Department Store,Coffee Shop,Indian Restaurant,Chinese Restaurant,Restaurant,Snack Place
+166,azad nagar,19.1283153,72.8400381,44500.0,30,7,6,19,100,79,Bar,Indian Restaurant,Coffee Shop,Pizza Place,Pub,Athletics & Sports,Asian Restaurant,Chinese Restaurant,Lounge,American Restaurant
+167,Chembur Shell Colony,19.0487974,72.8878464,47000.0,22,44,12,11,100,70,Indian Restaurant,Fast Food Restaurant,Bar,Ice Cream Shop,Snack Place,Bistro,Road,Electronics Store,Juice Bar,Pool
+168,Sector 18 Kharghar,19.073701399999997,73.08193505,21800.0,1,10,1,1,9,2,Smoke Shop,Chinese Restaurant,Restaurant,Bakery,Mughlai Restaurant,Train Station,Donut Shop,Dumpling Restaurant,Electronics Store,Zoo
+169,Central Avenue,19.0420201,72.9249348,53350.0,0,20,3,5,32,26,Indian Restaurant,Coffee Shop,Gas Station,Diner,Bus Station,Gym,Café,Fast Food Restaurant,Farm,Falafel Restaurant
+170,West Amardeep Colony,19.1789422,72.94758325000001,60000.0,46,82,7,22,100,90,Fast Food Restaurant,Snack Place,Indian Restaurant,Dessert Shop,Pub,Ice Cream Shop,Chinese Restaurant,Shopping Mall,Gym / Fitness Center,Mountain
+171,Sector 11 Koparkhairane,19.1055916,73.0008759,27557.14,24,41,5,12,100,47,Department Store,Indian Restaurant,Ice Cream Shop,Diner,Bus Station,Seafood Restaurant,Thai Restaurant,Lounge,Food Truck,Bar
+172,Western Express Highway Malad East,19.1848459,72.8585169,38500.0,27,78,6,15,100,82,Pizza Place,Snack Place,Gym / Fitness Center,Department Store,Ice Cream Shop,Indian Restaurant,Spa,Zoo,Factory,Donut Shop
+173,Kalina,19.079273,72.8612672,54000.0,9,5,2,8,80,50,Ice Cream Shop,Bakery,Chinese Restaurant,Indian Restaurant,Food & Drink Shop,Juice Bar,Playground,Asian Restaurant,Electronics Store,Seafood Restaurant
+174,Amboli,19.1319915,72.8499596,41000.0,41,70,10,14,100,79,Indian Restaurant,Asian Restaurant,Electronics Store,Fast Food Restaurant,Tea Room,Gym / Fitness Center,Coffee Shop,Pizza Place,Mughlai Restaurant,Sandwich Place
+175,Sion Trombay Road,19.053378,72.8969517,42666.67,42,35,12,30,100,95,Indian Restaurant,Pizza Place,Fast Food Restaurant,Café,Bar,Bakery,Dessert Shop,Snack Place,Garden,Gym
+176,Worli South Mumbai,19.0116962,72.8180702,70000.0,6,41,12,19,100,54,Scenic Lookout,Café,Bakery,Smoke Shop,Sports Club,Electronics Store,Thai Restaurant,French Restaurant,Chinese Restaurant,Art Gallery
+177,Sector 2 Ulwe,18.9804364,73.0387309,10500.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+178,Grant Road,18.9644472,72.8135727,45000.0,47,100,19,24,100,100,Indian Restaurant,Café,Fast Food Restaurant,Ice Cream Shop,Sandwich Place,Pizza Place,Bakery,Restaurant,Snack Place,Coffee Shop
+179,LBS Marg,19.0845663,72.8849418,29624.63,36,53,9,27,100,69,Indian Restaurant,Coffee Shop,Café,Chinese Restaurant,Beer Garden,Fast Food Restaurant,Shopping Mall,Restaurant,Pizza Place,Clothing Store
+180,Sector-16 Ulwe,18.9804364,73.0387309,15000.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+181,Walkeshwar,18.9553434,72.8079469,92500.0,21,53,10,40,100,60,Indian Restaurant,Ice Cream Shop,Restaurant,Gym,Pizza Place,Fast Food Restaurant,Café,Coffee Shop,Park,Italian Restaurant
+182,Almeida Park,19.05756305,72.83147308694079,75000.0,54,57,11,45,100,75,Café,Indian Restaurant,Bakery,Bar,Seafood Restaurant,Dessert Shop,Chinese Restaurant,Asian Restaurant,Lounge,Deli / Bodega
+183,Mumbai Nashik Expressway,19.9870096,73.7841145,33750.0,69,21,4,21,100,35,Bus Station,Diner,Multicuisine Indian Restaurant,Chinese Restaurant,Tourist Information Center,Indian Restaurant,Donut Shop,Dumpling Restaurant,Electronics Store,Zoo
+184,Sector 30 Kharghar,19.03773415,73.06419187265803,22666.67,25,46,3,16,100,28,Café,Fast Food Restaurant,Indian Restaurant,Multiplex,Juice Bar,Pizza Place,Fried Chicken Joint,Restaurant,Department Store,Chinese Restaurant
+185,Hiranandani Gardens Powai,19.1192046,72.90727434203777,41500.0,1,22,3,33,100,25,Indian Restaurant,Ice Cream Shop,Restaurant,Chinese Restaurant,Bar,Bakery,Café,Coffee Shop,Lounge,Donut Shop
+186,juhu tara,19.1002945,72.8273464,77000.0,4,21,4,29,100,11,Hotel,Indian Restaurant,Café,Bar,Lounge,Beach,Seafood Restaurant,Fast Food Restaurant,Spa,Snack Place
+187,Marol Andheri east mumbai,19.1084462,72.8784065,50250.0,11,25,5,13,100,70,Indian Restaurant,Hotel,Fast Food Restaurant,Restaurant,Café,Lounge,Italian Restaurant,Coffee Shop,Pub,Chinese Restaurant
+188,Powai Lake,19.1277203,72.90627950131966,39000.0,1,10,0,12,100,14,Indian Restaurant,Café,Italian Restaurant,Lake,Building,Restaurant,Bar,Gym / Fitness Center,Nightclub,Diner
+189,Reclamation,19.0510603,72.8330532,67142.86,31,42,13,22,100,64,Indian Restaurant,Café,Chinese Restaurant,Coffee Shop,Pizza Place,Bar,Bakery,Snack Place,Tea Room,Italian Restaurant
+190,Shimpoli,19.2228291,72.8409213,28500.0,13,53,3,42,100,52,Indian Restaurant,Restaurant,Fast Food Restaurant,Café,Coffee Shop,Bakery,Dessert Shop,Asian Restaurant,Snack Place,Sandwich Place
+191,Swastik Park,19.1254209,72.9177553,39120.0,17,42,6,19,100,57,Indian Restaurant,Coffee Shop,Café,Arcade,Seafood Restaurant,Bar,Bed & Breakfast,Lounge,Smoke Shop,Concert Hall
+192,14TH ROAD,19.068617,72.8329159,77750.0,26,23,6,36,100,73,Indian Restaurant,Café,Bar,Italian Restaurant,Bakery,Lounge,Seafood Restaurant,Pub,Asian Restaurant,Dessert Shop
+193,lower parel west,18.9963318,72.8308603,77500.0,11,31,11,37,100,87,Indian Restaurant,Café,Restaurant,Coffee Shop,Pub,Italian Restaurant,Lounge,Asian Restaurant,Mediterranean Restaurant,Clothing Store
+194,Sector 20 Ulwe,18.9804364,73.0387309,30000.0,0,1,0,0,1,2,Pizza Place,Department Store,Italian Restaurant,Dhaba,Zoo,Event Space,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+195,versova,19.13025205,72.8213774957082,70833.33,30,34,3,36,100,42,Café,Pub,Indian Restaurant,Bar,Lounge,Ice Cream Shop,Pizza Place,Chinese Restaurant,Seafood Restaurant,Vegetarian / Vegan Restaurant
+196,Navade,19.053846,73.1030296,26000.0,1,10,1,1,1,9,Lake,Bookstore,Diner,Flea Market,Fish Market,Fish & Chips Shop,Field,Fast Food Restaurant,Farmers Market,Farm
+197,Asalpha,19.097,72.8945,35000.0,18,63,1,6,69,100,Factory,Café,Light Rail Station,Hotel,Food Truck,Lounge,Restaurant,Electronics Store,Donut Shop,Dumpling Restaurant
+198,Bandstand,19.0504556,72.8218606,159285.71,6,17,4,29,89,47,Coffee Shop,Café,Bakery,Chinese Restaurant,Pizza Place,Indian Restaurant,Italian Restaurant,Bar,Lounge,Ice Cream Shop
+199,Kamathipura,18.9653224,72.8264349,75000.0,42,100,29,22,100,100,Indian Restaurant,Fast Food Restaurant,Restaurant,Dessert Shop,Ice Cream Shop,Department Store,Athletics & Sports,Flea Market,Snack Place,Market
+200,Saki Naka,19.1082208,72.8835824,41500.0,23,31,4,11,100,67,Indian Restaurant,Hotel,Fast Food Restaurant,Restaurant,Chinese Restaurant,Café,Lounge,Coffee Shop,Italian Restaurant,Pub
+201,Sector 29C,19.03589285,72.95021418628839,28000.0,5,25,3,3,11,30,Athletics & Sports,Concert Hall,Shop & Service,Indian Restaurant,Falafel Restaurant,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space,Factory
+202,Sindhi Society Chembur,19.0508747,72.8890543,49200.0,26,41,12,14,100,80,Indian Restaurant,Snack Place,Bar,Fast Food Restaurant,Juice Bar,Coffee Shop,Mobile Phone Shop,Pizza Place,Ice Cream Shop,Smoke Shop
+203,Tilak Nagar Mumbai,19.0692377,72.8978464,34666.67,24,39,6,29,100,76,Indian Restaurant,Restaurant,Café,Seafood Restaurant,Fast Food Restaurant,Bar,Lounge,Vegetarian / Vegan Restaurant,Chinese Restaurant,Pizza Place
+204,Union Park,19.0455428,72.9050998,72400.0,16,25,3,17,100,47,Pizza Place,Indian Restaurant,Fast Food Restaurant,Café,Chinese Restaurant,Bakery,Asian Restaurant,Soccer Field,Lounge,Movie Theater
+205,Anushakti Nagar,19.0395778,72.9221562,46000.0,2,8,2,4,14,19,Food,Indian Restaurant,Fast Food Restaurant,Gas Station,Bus Station,Café,Creperie,Convention Center,Fish & Chips Shop,Field
+206,Kharodi,19.191684,72.8140978,26000.0,9,46,4,6,100,55,Resort,Hot Dog Joint,Liquor Store,Department Store,Dance Studio,Diner,Indian Restaurant,Event Space,Donut Shop,Dumpling Restaurant
+207,Marol andheri east,19.1084462,72.8784065,42000.0,11,25,5,13,100,70,Indian Restaurant,Hotel,Fast Food Restaurant,Restaurant,Café,Lounge,Italian Restaurant,Coffee Shop,Pub,Chinese Restaurant
+208,MHADA Colony 20,19.1656942,72.9662251,45285.71,10,32,4,15,100,31,Indian Restaurant,Chinese Restaurant,Ice Cream Shop,Pizza Place,Bus Station,Playground,Café,Gym / Fitness Center,Falafel Restaurant,Farm
+209,Sector 7,19.02291925,73.04793003737667,33500.0,6,8,7,21,52,15,Smoke Shop,Pizza Place,Fast Food Restaurant,Restaurant,Recreation Center,Sports Bar,Bar,Bakery,Asian Restaurant,Indian Restaurant
+210,Kemps Corner,18.9637535,72.8068617,38750.0,35,77,13,42,100,64,Café,Indian Restaurant,Bakery,Coffee Shop,Dessert Shop,Pizza Place,Sandwich Place,Theater,Department Store,Park
+211,Lokhandwala Circle,19.1431889,72.824081,67500.0,20,16,6,29,100,22,Indian Restaurant,Café,Chinese Restaurant,Fast Food Restaurant,Coffee Shop,Pizza Place,Bar,Italian Restaurant,Bakery,Gym / Fitness Center
+212,Poonam Nagar,19.1369178,72.869128,75500.0,8,38,2,23,100,47,Restaurant,Indian Restaurant,Dance Studio,Bed & Breakfast,Hotel,Gym / Fitness Center,Airport Terminal,Gym,Chinese Restaurant,Asian Restaurant
+213,Shivaji Park,19.027236000000002,72.8383477969171,65000.0,16,69,13,43,100,88,Indian Restaurant,Chinese Restaurant,Fast Food Restaurant,Movie Theater,Coffee Shop,Bar,Ice Cream Shop,Breakfast Spot,Café,Shopping Mall
+214,Turbhe,19.0761648,73.01766154369602,18000.0,4,16,1,5,94,22,Indian Restaurant,Train Station,Hotel,Motorcycle Shop,Zoo,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space,Factory
+215,film city road goregaon east,19.1721587,72.8744598,49000.0,11,46,5,12,83,35,Seafood Restaurant,Café,Pizza Place,Bar,Office,Monument / Landmark,Ice Cream Shop,Coffee Shop,Restaurant,Falafel Restaurant
+216,Pestom Sagar Colony,19.0692541,72.9019227,38666.67,21,47,6,36,100,98,Indian Restaurant,Restaurant,Fast Food Restaurant,Juice Bar,Bar,Café,Seafood Restaurant,Lounge,Vegetarian / Vegan Restaurant,Coffee Shop
+217,Elphinstone Road,19.0084268,72.842505,63000.0,76,44,18,27,100,100,Indian Restaurant,Coffee Shop,Bakery,Restaurant,Pharmacy,Bus Station,Café,Department Store,Buffet,Pizza Place
+218,Hill Road,19.055552,72.8322643,80000.0,54,55,12,40,100,71,Café,Indian Restaurant,Bakery,Pizza Place,Bar,Chinese Restaurant,Seafood Restaurant,Snack Place,Lounge,Coffee Shop
+219,J B Nagar,18.9387711,72.8353355,52857.14,30,43,30,27,100,76,Indian Restaurant,Café,Coffee Shop,Hotel,Seafood Restaurant,Fast Food Restaurant,Train Station,Bar,Bakery,Clothing Store
+220,Lokhandwala Twp,19.1431889,72.824081,27000.0,20,16,6,29,100,22,Indian Restaurant,Café,Chinese Restaurant,Fast Food Restaurant,Coffee Shop,Pizza Place,Bar,Italian Restaurant,Bakery,Gym / Fitness Center
+221,Western Express Highway Goregaon East,19.1848459,72.8585169,58750.0,27,78,6,15,100,82,Pizza Place,Snack Place,Gym / Fitness Center,Department Store,Ice Cream Shop,Indian Restaurant,Spa,Zoo,Factory,Donut Shop
+222,Ashok Van,19.116503,72.886755,23000.0,29,34,0,15,100,32,Indian Restaurant,Café,Fast Food Restaurant,Food,Restaurant,Diner,Bakery,Chinese Restaurant,Snack Place,Hotel
+223,Juhu Tara Rd,19.1002945,72.8273464,90000.0,4,21,4,29,100,11,Hotel,Indian Restaurant,Café,Bar,Lounge,Beach,Seafood Restaurant,Fast Food Restaurant,Spa,Snack Place
+224,Khar Danda,19.07677855,72.82503089370692,82000.0,6,36,1,11,100,47,Italian Restaurant,Fast Food Restaurant,Dessert Shop,Bakery,Coffee Shop,Indian Restaurant,Snack Place,BBQ Joint,Ice Cream Shop,Juice Bar
+225,poonam nagar,19.1369178,72.869128,49666.67,8,38,2,23,100,47,Restaurant,Indian Restaurant,Dance Studio,Bed & Breakfast,Hotel,Gym / Fitness Center,Airport Terminal,Gym,Chinese Restaurant,Asian Restaurant
+226,RC Marg,19.0526419,72.8942789,41000.0,36,59,11,24,100,100,Indian Restaurant,Fast Food Restaurant,Pizza Place,Snack Place,Bakery,Ice Cream Shop,Spa,Bar,Café,Smoke Shop
+227,Saki Vihar Road,19.1285901,72.8958916,46666.67,1,18,2,15,23,19,Indian Restaurant,Restaurant,Hotel,Café,Lounge,Bar,Garden,Chinese Restaurant,Pool,Italian Restaurant
+228,Sion East,19.0428153,72.8653563,70000.0,28,25,9,31,100,100,Indian Restaurant,Vegetarian / Vegan Restaurant,Seafood Restaurant,Boutique,Train Station,Sandwich Place,Snack Place,Juice Bar,Dessert Shop,Restaurant
+229,Western Express Highway Andheri East,19.1129667,72.8546562,50750.0,22,58,8,18,100,94,Fast Food Restaurant,Indian Restaurant,Café,Hotel,Restaurant,Chinese Restaurant,Shopping Mall,Asian Restaurant,Martial Arts Dojo,Smoke Shop
+230,Western Express Highway Santacruz East,19.0903754,72.8437849,32000.0,22,27,5,16,100,52,Indian Restaurant,Gym,Café,Fast Food Restaurant,Shopping Mall,Bookstore,Snack Place,Electronics Store,Food Truck,Multiplex
+231,15th Rd,19.070757,72.8320648,80000.0,20,23,6,29,100,83,Indian Restaurant,Bar,Bakery,Lounge,Seafood Restaurant,Fast Food Restaurant,Italian Restaurant,Café,Dessert Shop,Asian Restaurant
+232,colaba post office,18.915091,72.8259691,75000.0,2,23,8,28,100,40,Indian Restaurant,Coffee Shop,Hotel,Café,Diner,Bar,Restaurant,Italian Restaurant,Chinese Restaurant,Tennis Court
+233,Ganesh Nagar,19.1515483,72.9300624,32000.0,42,78,5,11,100,85,Multiplex,Indian Restaurant,Women's Store,Tea Room,Gym / Fitness Center,Bookstore,Hotel,Restaurant,Diner,Donut Shop
+234,Hariyali,19.1136865,72.929775,50666.67,25,54,11,29,100,63,Vegetarian / Vegan Restaurant,Café,Indian Restaurant,Dessert Shop,Restaurant,Seafood Restaurant,Furniture / Home Store,Coworking Space,Clothing Store,Bakery
+235,Jacob Circle,18.9810531,72.82678629995553,70000.0,4,45,15,16,100,100,Bakery,Indian Restaurant,Coffee Shop,Asian Restaurant,Gym,Modern European Restaurant,Restaurant,Racetrack,Café,Club House
+236,Mahakali Road,19.1306093,72.87381645183467,32000.0,14,19,6,11,100,37,Indian Restaurant,Restaurant,Asian Restaurant,Pizza Place,Bed & Breakfast,Dance Studio,Italian Restaurant,Chinese Restaurant,Pet Store,Coffee Shop
+237,Off Carter Road,19.0607341,72.8222907,84666.67,13,20,3,29,100,13,Café,Indian Restaurant,Bakery,Bar,Chinese Restaurant,Fast Food Restaurant,Asian Restaurant,Dessert Shop,Seafood Restaurant,Spa
+238,Prabhadevi mumbai,19.0148811,72.8279556,90000.0,17,58,9,29,100,100,Indian Restaurant,Café,Coffee Shop,Chinese Restaurant,Electronics Store,Lounge,Snack Place,Restaurant,Bakery,Dessert Shop
+239,Sector-6 Airoli,19.1538376,72.9626809,38000.0,0,1,0,0,8,1,Bus Station,Indian Restaurant,Pizza Place,Diner,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space,Factory,Zoo
+240,Shastri Nagar,19.1380387,72.8280164,65333.33,31,21,5,48,100,43,Indian Restaurant,Chinese Restaurant,Pub,Lounge,Coffee Shop,Italian Restaurant,Bar,Fast Food Restaurant,Brewery,Pizza Place
+241,Western Express Highway Kandivali East,19.2214618,72.8654144,35250.0,30,38,5,17,100,63,Indian Restaurant,Café,Lounge,Bike Rental / Bike Share,Lighthouse,Movie Theater,Auto Dealership,Forest,Historic Site,Boat or Ferry
+242,16th Rd,19.0770339,72.8311155,68000.0,22,28,11,24,100,76,Indian Restaurant,Coffee Shop,Italian Restaurant,Lounge,Bakery,Asian Restaurant,Clothing Store,Café,Gym / Fitness Center,Chinese Restaurant
+243,nerul west,19.0370749,73.0124752,31000.0,28,54,2,36,100,57,Indian Restaurant,Snack Place,Diner,Café,BBQ Joint,Bus Station,Dessert Shop,Electronics Store,Deli / Bodega,Lounge
+244,Old Nagardas Road,19.1228375,72.8527499,50600.0,24,73,9,17,100,83,Indian Restaurant,Fast Food Restaurant,Bakery,Camera Store,Café,Sandwich Place,Restaurant,Electronics Store,Athletics & Sports,Food Court
+245,Sector-23 Juinagar,19.052557800000002,73.02416662624171,24000.0,6,12,0,9,78,18,Indian Restaurant,Pizza Place,Fast Food Restaurant,Campground,Train Station,Zoo,Diner,Donut Shop,Dumpling Restaurant,Electronics Store
+246,Vakola,19.0813635,72.853893,57666.67,12,28,4,7,100,59,Bakery,Outdoors & Recreation,Clothing Store,Roof Deck,Restaurant,Electronics Store,Café,Tea Room,Chinese Restaurant,Thai Restaurant
+247,Evershine Nagar,19.1471997,72.83406082649519,36000.0,12,54,6,29,100,63,Chinese Restaurant,Café,Indian Restaurant,Gym / Fitness Center,Gym,Pub,Seafood Restaurant,Bar,Bakery,Fast Food Restaurant
+248,Perry Cross Rd,19.0588692,72.8228248,116666.67,13,24,4,33,100,16,Café,Indian Restaurant,Chinese Restaurant,Bar,Bakery,Coffee Shop,Fast Food Restaurant,Asian Restaurant,Scenic Lookout,Bagel Shop
+249,Shivaji Nagar,19.0637885,72.9249,33000.0,23,100,6,13,100,100,Snack Place,Indian Restaurant,Bus Station,Adult Boutique,Pier,Fried Chicken Joint,Donut Shop,Dumpling Restaurant,Electronics Store,Event Space
+250,Chinchpokli,18.9871984,72.8326716,65000.0,12,40,17,27,100,100,Bakery,Coffee Shop,Zoo,Plaza,Modern European Restaurant,Maharashtrian Restaurant,Restaurant,Spa,Furniture / Home Store,Café
+251,Gopal Krishna Nagar,19.1117445,72.8678155,12500.0,20,56,6,28,100,95,Indian Restaurant,Hotel,Café,Lounge,Asian Restaurant,Restaurant,Seafood Restaurant,Hotel Bar,Italian Restaurant,Fast Food Restaurant
+252,Mahul Road,19.0230485,72.8833743,41000.0,0,3,0,8,6,9,Snack Place,Coffee Shop,Light Rail Station,Baseball Field,Multiplex,Asian Restaurant,Thai Restaurant,Bookstore,Train Station,Gym Pool
+253,Nerul East Sector 21,19.0370909,73.0233188,23750.0,41,65,2,48,100,55,Indian Restaurant,Fast Food Restaurant,Bakery,Diner,Ice Cream Shop,Pizza Place,Farmers Market,Food Court,South Indian Restaurant,Café
+254,Sahakar Nagar Road,19.0126679,72.851632,38000.0,19,65,13,28,100,100,Indian Restaurant,Coffee Shop,Café,Movie Theater,Garden,Snack Place,Flower Shop,Lounge,Restaurant,Bus Station
+255,Sai Baba Nagar,19.0627075,72.8910418,30000.0,29,29,5,33,100,89,Indian Restaurant,Vegetarian / Vegan Restaurant,Café,Bar,Performing Arts Venue,Arts & Crafts Store,Mobile Phone Shop,Restaurant,Snack Place,Bus Station
+256,Sector 15,18.9387711,72.8353355,35000.0,30,43,30,27,100,76,Indian Restaurant,Café,Coffee Shop,Hotel,Seafood Restaurant,Fast Food Restaurant,Train Station,Bar,Bakery,Clothing Store
+257,Worli Hill Road,19.0006288,72.8138069,65000.0,10,20,14,17,100,75,Seafood Restaurant,Chinese Restaurant,Indian Restaurant,Ice Cream Shop,Convenience Store,Arcade,Diner,Sporting Goods Shop,Café,Bakery
+258,Sai Nagar,19.1490182,72.9257057,18500.0,31,69,4,5,100,64,ATM,Arcade,Snack Place,Indian Restaurant,Field,Fast Food Restaurant,Farmers Market,Farm,Falafel Restaurant,Dim Sum Restaurant
+259,TPS Road,19.0880241,72.9128536,35000.0,35,87,6,31,100,100,Indian Restaurant,Vegetarian / Vegan Restaurant,Café,Coffee Shop,Pizza Place,Juice Bar,Men's Store,Electronics Store,Lounge,Restaurant
+260,IIT POWAI,19.13261855,72.91497912536826,32000.0,8,18,5,7,67,28,Indian Restaurant,Dance Studio,Department Store,Concert Hall,Café,Food Court,Event Space,Coffee Shop,Asian Restaurant,Building
+261,Milan Subway,19.0904782,72.8426101,60000.0,24,29,5,16,100,54,Indian Restaurant,Gym,Fast Food Restaurant,Café,Plane,Chinese Restaurant,Plaza,Multiplex,Indie Movie Theater,Electronics Store
+262,Nagpada,18.9681782,72.8286009,55000.0,46,100,35,19,100,100,Indian Restaurant,Fast Food Restaurant,Bakery,Restaurant,Department Store,Ice Cream Shop,Dessert Shop,Asian Restaurant,Middle Eastern Restaurant,Bus Station
+263,New Nagardas Road,19.1221994,72.8479536,52500.0,29,71,10,18,100,81,Indian Restaurant,Fast Food Restaurant,Electronics Store,Sandwich Place,Pizza Place,Coffee Shop,Bakery,Bus Station,Café,Camera Store
+264,Rizvi Complex,19.0662286,72.822963,78333.33,5,22,2,27,100,31,Indian Restaurant,Dessert Shop,Café,Asian Restaurant,Italian Restaurant,Fast Food Restaurant,Bakery,Bar,Cupcake Shop,Event Space
+265,Teli Gali,19.117186,72.8506186,55000.0,49,60,13,19,100,75,Indian Restaurant,Fast Food Restaurant,Chinese Restaurant,Food Court,Vegetarian / Vegan Restaurant,Café,Shopping Mall,Shoe Store,Bookstore,Restaurant
+266,114 Goregaon Mulund Link Road,19.1556112,72.9527115,44000.0,3,18,4,4,16,11,Bus Station,Restaurant,Fast Food Restaurant,Pizza Place,Train Station,Electronics Store,Dim Sum Restaurant,Diner,Donut Shop,Dumpling Restaurant
+267,16th Cross Road,19.0697882,72.8306095,95000.0,20,60,6,39,100,81,Indian Restaurant,Bakery,Bar,Dessert Shop,Lounge,Italian Restaurant,Café,Seafood Restaurant,Asian Restaurant,Cupcake Shop
+268,Chinchpokli East,18.9871984,72.8326716,56000.0,12,40,17,27,100,100,Bakery,Coffee Shop,Zoo,Plaza,Modern European Restaurant,Maharashtrian Restaurant,Restaurant,Spa,Furniture / Home Store,Café
+269,Marol Vijay Nagar,19.118084,72.8801296,38000.0,19,32,5,20,100,39,Indian Restaurant,Chinese Restaurant,Hotel,Coffee Shop,Restaurant,Ice Cream Shop,Café,Flea Market,Dance Studio,Snack Place
+270,sundervan complex,19.137424799999998,72.82719162637363,66000.0,29,37,5,42,100,42,Indian Restaurant,Lounge,Pub,Chinese Restaurant,Fast Food Restaurant,Italian Restaurant,Pizza Place,Multiplex,Bar,Bakery
+271,Tunga Village,19.119371,72.8924338,45000.0,5,22,4,25,95,16,Indian Restaurant,Café,Food,Diner,Restaurant,Residential Building (Apartment / Condo),Garden,Department Store,Lounge,Pub
+272,CENTRAL PARK,19.0572618,73.07113223427388,50000.0,6,18,0,10,31,8,Golf Course,Theme Park,Scenic Lookout,Plaza,Indian Restaurant,Zoo,Dim Sum Restaurant,Diner,Donut Shop,Dumpling Restaurant
+273,Chuim Village,19.07359665,72.82572124902967,40000.0,9,36,1,17,100,52,Italian Restaurant,Bakery,Indian Restaurant,Asian Restaurant,Fast Food Restaurant,Snack Place,Lounge,Cupcake Shop,Ice Cream Shop,Dessert Shop
+274,Eastern Express Highway,18.9420871,72.8345727,25000.0,27,69,32,26,100,100,Indian Restaurant,Café,Hotel,Seafood Restaurant,Bar,Bakery,Multiplex,Coffee Shop,Chinese Restaurant,Sandwich Place
+275,PL Lokhande Marg,19.0605207,72.9100183,30000.0,18,54,8,31,100,100,Indian Restaurant,Gym / Fitness Center,Food Truck,Paper / Office Supplies Store,Seafood Restaurant,Hot Dog Joint,Grocery Store,Lounge,Asian Restaurant,Event Space
